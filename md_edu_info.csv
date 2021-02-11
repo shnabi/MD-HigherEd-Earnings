@@ -1,0 +1,714 @@
+year,unitid,inst_name,state_name,inst_control,institution_level,hbcu,urban_centric_locale,rev_tuition_fees_gross,rev_total_current,exp_instruc_total,exp_total_current
+2016,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",64148904,116699800,48737504,112845248
+2016,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",38934396,148600096,38159948,105669920
+2016,162061,Capitol Technology University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",13093469,16493667,3390910,15229484
+2016,162210,Washington Adventist University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",22102872,33828896,10217458,33119692
+2016,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",14986391,83093536,25961526,88736976
+2016,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Suburb, small",38662112,117801440,41397304,113558192
+2016,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",67135000,82220000,25458290,71360000
+2016,162681,Kaplan University-Hagerstown Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, midsize",8542509,9412621,1607068,7550206
+2016,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",45517216,51101640,14928490,40629312
+2016,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",918803968,6349066752,1950062000,5624242176
+2016,163046,Loyola University Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",212967536,241647280,67481980,206130448
+2016,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",324341152,402507200,102822744,388076512
+2016,163259,"University of Maryland, Baltimore",Maryland,Public,Four or more years,No,"City, large",135909968,1152407040,220813650,1091432960
+2016,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",127999712,428093664,127958770,405829120
+2016,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",595707648,2033139456,521845820,1899950720
+2016,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",92621464,92684464,32150224,81124936
+2016,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, fringe",28224412,116118368,46150680,123896912
+2016,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",66372368,263203872,65480284,238527520
+2016,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Town, fringe",69020512,67457944,20673276,67241904
+2016,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",8919720,11566753,2609821,12059253
+2016,163578,Notre Dame of Maryland University,Maryland,Private not-for-profit,Four or more years,No,"City, large",40245844,49019592,23113228,48522208
+2016,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",75243016,187231408,64546150,173051264
+2016,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Suburb, small",24905680,74917296,26021202,67779960
+2016,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",,,,
+2016,163976,St. John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",22772988,57459520,10601502,29425336
+2016,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",184554784,430392480,140970320,402400864
+2016,164085,Maryland University of Integrative Health,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",16428479,17113442,4758240,15372080
+2016,164146,University System of Maryland,Maryland,Public,Four or more years,No,"City, large",,65317884,,27865740
+2016,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,466826144,181718500,464899360
+2016,164173,Stevenson University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",101669952,117735208,40318748,97498576
+2016,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",62987772,73685568,22578308,69264512
+2016,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",69720000,73955000,23725000,64386000
+2016,212452,Faith Theological Seminary,Maryland,Private not-for-profit,Four or more years,No,"City, large",678402,822095,87668,1016348
+2016,404480,University System of Maryland-Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,51419940,,47941212
+2016,430184,Strayer University-Maryland,Maryland,Private for-profit,Four or more years,No,"Suburb, large",40612888,33088620,4170444,23318386
+2016,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",416174,9026587,264409,8855932
+2016,434973,University of Phoenix-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",453953,429699,224222,905746
+2016,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",148247,336327,90900,318489
+2016,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",,,,
+2016,462372,ITT Technical Institute-Hanover,Maryland,Private for-profit,Four or more years,No,"Suburb, large",,,,
+2016,476601,Bais HaMedrash and Mesivta of Baltimore,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",2218211,1929381,1020384,1797293
+2015,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",67440504,114757616,48085490,113704656
+2015,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",36360208,152878496,35698148,102718920
+2015,162061,Capitol Technology University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",12618707,14788626,3431900,14322617
+2015,162210,Washington Adventist University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",20851208,30240980,9850684,29405668
+2015,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",15434857,94546672,28307336,87334632
+2015,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Suburb, small",39457792,117235320,40129670,110474576
+2015,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",65282000,54319000,26344952,70783000
+2015,162681,Kaplan University-Hagerstown Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, midsize",20368528,10794360,2337626,8870630
+2015,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",46482664,36359936,14941586,41847504
+2015,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",866235008,5456308224,1879545000,5332284928
+2015,163046,Loyola University Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",206223120,199719984,67180870,198950976
+2015,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",312852064,386628192,95559350,359513248
+2015,163259,"University of Maryland, Baltimore",Maryland,Public,Four or more years,No,"City, large",128016904,1124976128,218942080,1037493440
+2015,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",127309784,426017824,119880900,390534720
+2015,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",558809216,1953507200,496374900,1819935232
+2015,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",92471536,82519272,31645028,79787808
+2015,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, fringe",30011012,139663104,40221760,120395840
+2015,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",60245452,263156560,59077148,214673472
+2015,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Town, fringe",69048648,68213632,20941316,70406520
+2015,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",9093827,13314273,2538259,11357108
+2015,163578,Notre Dame of Maryland University,Maryland,Private not-for-profit,Four or more years,No,"City, large",42667796,44080872,22658772,46252428
+2015,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",73127960,241175728,63093104,162296112
+2015,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Suburb, small",26305140,86689776,26315936,69385832
+2015,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",,,,
+2015,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",20790656,19791300,10296644,30364898
+2015,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",181600592,419896768,131310776,391143616
+2015,164085,Maryland University of Integrative Health,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",14056023,15187956,4246792,13640200
+2015,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,59184268,,28635692
+2015,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,485599296,189994450,484282304
+2015,164173,Stevenson University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",97324536,95224328,41106172,99211264
+2015,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",60535456,74183416,20922188,66613736
+2015,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",70263000,55777000,22822000,63112000
+2015,212452,Faith Theological Seminary,Maryland,Private not-for-profit,Four or more years,No,"City, large",680581,1149219,170772,938055
+2015,369817,Bethel Seminary of the East,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",,,,
+2015,404480,University System of Maryland-Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,59969044,,49170636
+2015,430184,Strayer University-Maryland,Maryland,Private for-profit,Four or more years,No,"Suburb, large",38074912,32273490,4628502,23156676
+2015,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",394546,8478622,314679,8859018
+2015,434973,University of Phoenix-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",1742781,1631435,568443,2074656
+2015,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",167193,270472,84425,295801
+2015,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",,,,
+2015,462372,ITT Technical Institute-Hanover,Maryland,Private for-profit,Four or more years,No,"Suburb, large",,,,
+2015,476601,Bais HaMedrash and Mesivta of Baltimore,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",2113795,1883847,989199,1675859
+2015,482501,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",,,,
+2014,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",69573704,115530608,46398800,111980392
+2014,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",37119176,110744272,34730388,98876096
+2014,162061,Capitol Technology University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",12051838,15969251,3500320,15828025
+2014,162210,Washington Adventist University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",17641200,30095416,10033111,29824636
+2014,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",15476999,100865408,23736752,76481056
+2014,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Suburb, small",36579668,119126024,38977076,107709560
+2014,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",61968000,57776000,26126588,69794000
+2014,162681,Kaplan University-Hagerstown Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, midsize",12778146,12244630,2736454,9431527
+2014,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",47326044,46769532,14938981,41817568
+2014,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",802769024,5217895936,1756405000,5091367936
+2014,163046,Loyola University Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",202827616,219300896,65931880,197844144
+2014,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",297307904,368113056,91450360,336981344
+2014,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",121538688,1073513088,221741400,1027838080
+2014,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",122461768,420966944,117753230,386241408
+2014,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",522949152,1813041408,524188960,1763134848
+2014,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",92460912,87523792,30512588,78914216
+2014,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, fringe",31381650,157926544,41000252,116259768
+2014,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",57474324,241877616,65955504,204916928
+2014,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Town, fringe",68218176,68440192,20617572,66921864
+2014,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",9476741,9951135,2516470,12082848
+2014,163578,Notre Dame of Maryland University,Maryland,Private not-for-profit,Four or more years,No,"City, large",41530048,43657460,22726624,47859084
+2014,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",69654784,198749728,60244296,155140240
+2014,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Suburb, small",27071728,78239920,26547932,65535992
+2014,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",,,,
+2014,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",21221342,24740250,10012211,29256176
+2014,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",177329264,406640288,128638090,380504320
+2014,164085,Maryland University of Integrative Health,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",11304267,12437175,4730464,12201051
+2014,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,62475128,,29038842
+2014,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,472350304,186841730,470467456
+2014,164173,Stevenson University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",93274800,95438680,38127684,97161808
+2014,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",59407524,74832488,21299678,67210720
+2014,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",70329000,63944000,24012000,64685000
+2014,212452,Faith Theological Seminary,Maryland,Private not-for-profit,Four or more years,No,"City, large",656576,699112,128770,881911
+2014,369817,Bethel Seminary of the East,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",,,,
+2014,404480,University System of Maryland-Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,51017064,,47291184
+2014,430184,Strayer University-Maryland,Maryland,Private for-profit,Four or more years,No,"Suburb, large",37292292,33072536,4298640,24209448
+2014,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",286750,8461287,293727,8284411
+2014,434973,University of Phoenix-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",3309247,3233359,1218018,3458063
+2014,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",210407,335334,79685,283326
+2014,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",9420043,9398364,1329807,7103162
+2014,462372,ITT Technical Institute-Hanover,Maryland,Private for-profit,Four or more years,No,"Suburb, large",6413640,6413640,624708,4522946
+2014,476601,Bais HaMedrash and Mesivta of Baltimore,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",2212327,2045902,1095190,2079389
+2014,482501,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",,,,
+2013,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",64192004,107669704,43093910,109530728
+2013,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",34767392,105742176,32570940,98429944
+2013,162061,Capitol College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",12328746,16725948,3403850,15931699
+2013,162210,Washington Adventist University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",19449438,29150096,10755933,29765148
+2013,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",16007356,103165976,24286672,76693216
+2013,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Suburb, small",34351536,124495416,36107140,103348816
+2013,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",58756000,95279000,26448846,69081000
+2013,162681,Kaplan University-Hagerstown Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, midsize",12609778,12150358,2986825,9320608
+2013,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",46747068,54723476,13701732,40687448
+2013,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",757427008,5539675136,1643289000,4901326848
+2013,163046,Loyola University Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",195429632,233785952,62395124,191956384
+2013,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",287664640,359937312,105929390,362887200
+2013,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",119862168,1023893504,214672720,1013248576
+2013,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",116254888,422468384,112403496,372948096
+2013,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",488545920,1694904192,493853220,1711660928
+2013,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",86842944,89476048,29773442,77164912
+2013,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, fringe",29721896,121844920,36598876,109358728
+2013,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",55516844,223125248,63031850,203169408
+2013,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Town, fringe",63587680,69172360,20016424,64241996
+2013,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",7074733,12545772,2510101,11278311
+2013,163578,Notre Dame of Maryland University,Maryland,Private not-for-profit,Four or more years,No,"City, large",41049048,50851732,21396240,44783392
+2013,163842,St Mary's Seminary & University,Maryland,Private not-for-profit,Four or more years,No,"City, large",,,,
+2013,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",66465300,166488416,56661480,153065312
+2013,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Suburb, small",29522540,70973064,26059276,64974952
+2013,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",22756912,25986902,5007854,28195404
+2013,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",21240476,35090816,9710012,28695624
+2013,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",173136128,401103648,117778184,370418336
+2013,164085,Maryland University of Integrative Health,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",9566924,10707556,3636144,10338015
+2013,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,51685856,,29827624
+2013,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,441753024,177271580,440916096
+2013,164173,Stevenson University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",89753920,105365168,36151804,94769648
+2013,164207,Washington Bible College-Capital Bible Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",,,,
+2013,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",58537604,88615536,21013988,63888796
+2013,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",68474000,74391000,23577000,62518000
+2013,212452,Faith Theological Seminary,Maryland,Private not-for-profit,Four or more years,No,"City, large",1031132,1043867,80829,975111
+2013,369817,Bethel Seminary of the East,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",391690,408221,241395,823525
+2013,404480,University System of Maryland-Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,46081184,,45791080
+2013,430184,Strayer University-Maryland,Maryland,Private for-profit,Four or more years,No,"Suburb, large",40831856,39981456,5298677,28384386
+2013,434034,National Labor College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",,,,
+2013,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",391343,8288041,338804,8348748
+2013,434973,University of Phoenix-Maryland Campus,Maryland,Private for-profit,Four or more years,No,"City, small",5052958,5127676,2194189,7256440
+2013,439330,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",,,,
+2013,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",206201,303302,100769,354625
+2013,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",12565216,12124305,1640215,8774275
+2013,462080,DeVry University's Keller Graduate School of Management-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",,,,
+2013,462372,ITT Technical Institute-Hanover,Maryland,Private for-profit,Four or more years,No,"Suburb, large",5642874,5602667,437695,3946792
+2013,476601,Bais HaMedrash and Mesivta of Baltimore,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",1900657,1787566,910479,1872098
+2013,482501,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",2066809,2005056,588753,1642791
+2012,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",64717568,149149488,39555812,99627352
+2012,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",32383720,96993232,31598676,90395624
+2012,162061,Capitol College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",12574452,14989285,3426235,14019571
+2012,162210,Washington Adventist University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",22126124,31848732,11595870,31345832
+2012,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",15997942,82291432,24963768,76874864
+2012,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Suburb, small",33496208,122216440,34837216,98181480
+2012,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",57493796,82565000,25615220,66567000
+2012,162681,Kaplan University-Hagerstown Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, midsize",12765782,12537037,3336834,9443954
+2012,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",47598968,49302448,15552851,41094088
+2012,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",734928000,5087603200,1590599000,4698580992
+2012,163046,Loyola University Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",189855360,216696496,61153890,182464352
+2012,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",314526048,380115040,102305060,362534304
+2012,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",118983360,1017124928,212199460,991984768
+2012,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",111991576,437159232,109943790,354150720
+2012,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",480479360,1698470400,464448400,1606590208
+2012,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",84652840,90036248,29705424,74705800
+2012,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, fringe",31578524,113897960,38946120,110946680
+2012,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",55237080,201713088,64194600,203403808
+2012,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Town, fringe",63695876,66716912,20103184,64918492
+2012,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",3739272,7976090,2417519,10764826
+2012,163578,Notre Dame of Maryland University,Maryland,Private not-for-profit,Four or more years,No,"City, large",40641444,49640472,19838754,41024920
+2012,163842,St Mary's Seminary & University,Maryland,Private not-for-profit,Four or more years,No,"City, large",,,,
+2012,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",62747560,156396944,55759210,143457440
+2012,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Suburb, small",30518006,68719320,26827244,66366780
+2012,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",24906110,28987548,6057220,34103588
+2012,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",21241350,34215516,10226245,29121652
+2012,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",166480352,379125920,116168800,344430464
+2012,164085,Maryland University of Integrative Health,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",8019893,6641684,2632316,8721272
+2012,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,43892816,,26637210
+2012,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,451384800,177746530,449765216
+2012,164173,Stevenson University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",82481784,101191664,33154888,87655760
+2012,164207,Washington Bible College-Capital Bible Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",,,,
+2012,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",58231524,87706664,21285028,63720944
+2012,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",65610000,71328000,22609000,60987000
+2012,369817,Bethel Seminary of the East,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",536570,826581,237690,941781
+2012,404480,University System of Maryland Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,45833452,,47588576
+2012,430184,Strayer University-Maryland,Maryland,Private for-profit,Four or more years,No,"Suburb, large",51956724,48104376,5506789,32546928
+2012,434034,National Labor College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",3123021,12203330,6059538,15180683
+2012,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",429525,6395917,563861,6656164
+2012,434973,University of Phoenix-Maryland Campus,Maryland,Private for-profit,Four or more years,No,"City, small",6759793,7064393,1275124,9367286
+2012,439330,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",,,,
+2012,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",210567,300313,98217,321937
+2012,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",18198178,17752792,3089127,9324832
+2012,462080,DeVry University's Keller Graduate School of Management-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",,,,
+2012,462372,ITT Technical Institute-Hanover,Maryland,Private for-profit,Four or more years,No,"Suburb, large",2996990,2996990,406947,3201931
+2012,476601,Bais HaMedrash and Mesivta of Baltimore,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",1838800,1591492,919155,1578664
+2011,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",65335928,148930816,38685696,95601840
+2011,161882,Baltimore International College,Maryland,Private not-for-profit,Four or more years,No,"City, large",,,,
+2011,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",32845996,101926784,28519320,81023592
+2011,162061,Capitol College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",10909813,12960629,3193726,13223332
+2011,162210,Washington Adventist University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",24685544,35160068,11037744,29717560
+2011,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",13637933,84659344,27623412,84093864
+2011,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Suburb, small",32877216,100684888,34543630,95207480
+2011,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",53740000,63045000,29170530,66240000
+2011,162681,Kaplan University-Hagerstown Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, midsize",15791490,15590745,3453936,9549798
+2011,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",47931856,40428940,15015382,40020268
+2011,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",706209024,4520029184,1519572000,4445645824
+2011,163046,Loyola University Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",182271184,176026368,58419736,175208624
+2011,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",324646112,397004416,96999784,339102560
+2011,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",114748080,979396928,203457980,962711872
+2011,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",104199032,376964864,106820690,326888384
+2011,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",463244736,1660235008,447611040,1551719680
+2011,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",80420808,75864944,28023016,71180904
+2011,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, distant",29712752,110689920,35195050,110572144
+2011,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",56978024,227876560,54914920,190969568
+2011,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",59415800,58979496,18711572,64549100
+2011,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",3941643,16295125,2250653,10410367
+2011,163578,Notre Dame of Maryland University,Maryland,Private not-for-profit,Four or more years,No,"City, large",37766024,38563420,18063852,40474472
+2011,163842,St Mary's Seminary & University,Maryland,Private not-for-profit,Four or more years,No,"City, large",1992878,3129948,2165712,6019465
+2011,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",59538200,154553680,54104130,141066224
+2011,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Rural, distant",31034316,69122224,28348720,68695200
+2011,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",25776652,35283120,6323856,35604808
+2011,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",22159768,24995620,9839802,27399156
+2011,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",162784080,376377664,123570030,353998112
+2011,164085,Tai Sophia Institute,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",7054080,7826496,2190051,8819588
+2011,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,47315412,,26654306
+2011,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,455133408,183459900,453922912
+2011,164173,Stevenson University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",76805600,81177336,31755268,81957688
+2011,164207,Washington Bible College-Capital Bible Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",3993966,5686391,3047982,5794387
+2011,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",56356916,56496976,18771952,66990024
+2011,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",62271000,55965000,23114000,61355000
+2011,404480,University System of Maryland Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,57819600,,44490412
+2011,430184,Strayer University-Maryland,Maryland,Private for-profit,Four or more years,No,"Suburb, large",57088256,55774956,5547673,34121120
+2011,434034,National Labor College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",1818571,15904991,7760360,18295400
+2011,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",378981,6118274,369453,6831921
+2011,434973,University of Phoenix-Maryland Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, large",7903458,8272217,1466402,11412092
+2011,439330,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",2025289,2089377,343784,1261259
+2011,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",233806,317518,97688,306706
+2011,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",24824652,24332400,3580928,10610410
+2011,462080,DeVry University's Keller Graduate School of Management-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",1608070,1530426,287489,342606
+2011,462372,ITT Technical Institute-Hanover,Maryland,Private for-profit,Four or more years,No,"Rural, fringe",117679,117679,44382,981820
+2010,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",63527504,124811200,38776736,103563072
+2010,161882,Baltimore International College,Maryland,Private not-for-profit,Four or more years,No,"City, large",,,,
+2010,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",32511892,122215088,28080472,80771408
+2010,162061,Capitol College,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",9648389,13741801,3267880,12511468
+2010,162210,Washington Adventist University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",22420736,32450284,9996734,27084952
+2010,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",15384027,81866736,31875720,82651568
+2010,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Suburb, small",32253516,101255976,32846672,92894312
+2010,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",54025000,97178000,28644324,65045000
+2010,162681,Kaplan University-Hagerstown Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, midsize",19463840,19103960,3376687,9023255
+2010,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",43756420,50860232,15256607,39732976
+2010,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",672433024,5043616768,1388993000,4271811072
+2010,163046,Loyola University-Baltimore,Maryland,Private not-for-profit,Four or more years,No,"City, large",170759184,201885456,59894460,175321600
+2010,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",282958176,356317120,91348910,309424160
+2010,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",110384344,1008687808,189586480,958776960
+2010,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",95336880,374331232,106401840,341501664
+2010,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",443973536,1618989184,420925400,1475659392
+2010,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",70577432,87129288,25616160,65201476
+2010,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, distant",25966144,104498152,32257356,100921288
+2010,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",57625908,219929872,51585156,180043120
+2010,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",51291800,64952188,18044068,61106128
+2010,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",4348010,13633593,2232106,10785352
+2010,163578,College of Notre Dame of Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",34626620,44944500,17812252,38477392
+2010,163842,St Mary's Seminary & University,Maryland,Private not-for-profit,Four or more years,No,"City, large",1936907,18871268,2239781,6261672
+2010,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",53382780,156942928,47687500,121888296
+2010,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Rural, distant",29737718,68020488,27181762,64802976
+2010,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",25578770,36050800,6308891,35520552
+2010,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",20774740,33274256,9847834,27504176
+2010,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",158291120,379808352,109410830,317077568
+2010,164085,Tai Sophia Institute,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",6519490,7959767,1924809,9304763
+2010,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,46105700,,25601280
+2010,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,443299680,178681680,444830592
+2010,164173,Stevenson University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",71494784,86264296,27993788,72844464
+2010,164207,Washington Bible College-Capital Bible Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",3717695,5170571,4329064,8097263
+2010,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",50696532,82313544,16904604,56633308
+2010,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",60698000,73369000,23102000,59818000
+2010,404480,University System of Maryland Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,47686860,,45102088
+2010,430184,Strayer University-Maryland,Maryland,Private for-profit,Four or more years,No,"Suburb, large",60433456,59135452,5625749,36543324
+2010,434034,National Labor College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",1486089,15583337,8916524,19400226
+2010,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",453327,6857219,513890,6770899
+2010,434973,University of Phoenix-Maryland Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, large",6986923,7260785,1266960,11392435
+2010,439330,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",1786583,1842517,898419,2690346
+2010,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",250025,308451,100992,313017
+2010,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",28111604,27865332,3946283,11405909
+2009,161837,Baltimore Hebrew University Inc,Maryland,Private not-for-profit,Four or more years,No,"City, large",,,,
+2009,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",60863660,102613248,39074320,100463968
+2009,161882,Baltimore International College,Maryland,Private not-for-profit,Four or more years,No,"City, large",16394497,14060343,3086354,14012191
+2009,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",32750160,96036464,27541720,83351568
+2009,162061,Capitol College,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",8744384,12168100,2748036,12050484
+2009,162210,Washington Adventist University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",18617748,28384984,8843806,25457776
+2009,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",15517378,112991808,28814324,76587896
+2009,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Suburb, small",31410036,90393048,32491076,88476904
+2009,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",51037520,74675032,26719204,61046000
+2009,162681,Kaplan University,Maryland,Private for-profit,Four or more years,No,"City, small",19739244,16211267,2876772,8741221
+2009,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",42070956,45207812,14218529,37834952
+2009,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",618272000,4317349888,1308545000,4019377920
+2009,163046,Loyola University Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",161183760,191629840,57543536,166406784
+2009,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",265260480,325653376,84322650,285627424
+2009,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",103718416,985330688,186604780,918752000
+2009,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",95769248,333068224,101339830,325148864
+2009,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",422194432,1522797952,426584700,1418558080
+2009,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",64966904,69970160,23557120,60149368
+2009,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, distant",22845360,99754648,30451200,96892304
+2009,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",53943624,192927312,54621600,179528592
+2009,163462,Mount St. Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",48092320,57993496,17379496,58491580
+2009,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",4742013,15711863,2110702,10720399
+2009,163578,College of Notre Dame of Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",31102780,41718516,16095395,35647136
+2009,163842,St. Mary's Seminary & University,Maryland,Private not-for-profit,Four or more years,No,"City, large",1813748,11671773,2274914,6431211
+2009,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",51247236,141049936,48066230,119557696
+2009,163912,St. Mary's College of Maryland,Maryland,Public,Four or more years,No,"Rural, distant",29763886,67091496,26655340,62451308
+2009,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",19310852,27028600,4903165,27605984
+2009,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",19930368,31771560,9871689,27341380
+2009,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",149426528,372916864,105677830,305156384
+2009,164085,Tai Sophia Institute,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",6489180,8381450,1879764,8859013
+2009,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,33478966,,23725258
+2009,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,432629760,165364180,432139904
+2009,164173,Stevenson University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",60296724,69219664,26624088,66398508
+2009,164207,Washington Bible College-Capital Bible Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",6153495,7336520,2754562,6235730
+2009,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",47648856,66430544,17604024,55138924
+2009,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",59618000,66187000,23521000,60125000
+2009,404480,University System of Maryland Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,75126240,,170628688
+2009,434034,National Labor College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",1324240,18764944,5114626,25962816
+2009,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",370983,6081151,533507,6472962
+2009,434973,University of Phoenix-Maryland Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, large",6459374,6801147,1158701,13237185
+2009,439330,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",1976362,1984742,666906,2588309
+2009,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",277377,339702,88142,322594
+2009,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",23986142,23799740,3348295,9723019
+2008,161837,Baltimore Hebrew University Inc,Maryland,Private not-for-profit,Four or more years,No,"City, large",,,,
+2008,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",53245428,93874504,33543598,90579120
+2008,161882,Baltimore International College,Maryland,Private not-for-profit,Four or more years,No,"City, large",15415598,14573376,2983893,14077399
+2008,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",30825478,85233880,30288746,80328688
+2008,162061,Capitol College,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",8198253,10939561,2806150,12098632
+2008,162210,Columbia Union College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",15090685,25303428,8468629,23384168
+2008,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",14968754,142076304,27740562,73135832
+2008,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Town, remote",30315028,90935952,32502892,88702440
+2008,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",48934856,9925000,27352194,61099156
+2008,162681,Kaplan College,Maryland,Private for-profit,Four or more years,No,"Suburb, midsize",3633650,10295604,2579249,7382232
+2008,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",40111088,29003468,14627845,38765776
+2008,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",586689984,3266023936,1277929000,3789861888
+2008,163046,Loyola College in Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",118028408,109434448,56946616,166176816
+2008,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",225326304,300334048,83420456,257309376
+2008,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",93890656,842826880,178653660,878350720
+2008,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",93089000,333083872,102510440,326045888
+2008,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",400798752,1442918272,427433860,1405879552
+2008,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",60987840,49711436,24177756,60526708
+2008,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, fringe",23578168,98811376,29899826,98524048
+2008,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",51450552,181842848,53008704,177331808
+2008,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",45989912,45515460,16526789,55893924
+2008,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",4632393,11661718,2074855,9446231
+2008,163578,College of Notre Dame of Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",29121024,23029908,16352289,36331892
+2008,163842,St. Mary's Seminary & University,Maryland,Private not-for-profit,Four or more years,No,"City, large",1734517,-4162504,2228135,6589665
+2008,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",49340304,136724784,48895504,120534712
+2008,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Rural, distant",28405238,66587396,23047920,62387168
+2008,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",18226916,25850656,3785028,26770432
+2008,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",20245808,18255348,10261510,27789566
+2008,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",143734176,351775072,92458640,303695776
+2008,164085,Tai Sophia Institute,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",5776045,4774974,2178389,9545803
+2008,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,21574344,,22690846
+2008,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,417152416,164839120,418076672
+2008,164173,Stevenson University,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",54753784,45685704,25275852,63087324
+2008,164207,Washington Bible College-Capital Bible Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",4948525,5843340,1802200,6242973
+2008,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",45517724,27999080,17912276,48903880
+2008,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",58954000,43506000,23878000,60058000
+2008,404480,University System of Maryland Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,86763872,,90652368
+2008,434034,National Labor College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",1496503,24542964,2921208,23949024
+2008,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",371299,5772051,495131,6394857
+2008,434973,University of Phoenix-Maryland Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, large",6748793,7036375,1087378,15493859
+2008,439330,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",1372743,1319074,686895,1761131
+2008,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",290032,395975,120156,362582
+2008,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",16459679,16323373,2625657,7706957
+2007,161837,Baltimore Hebrew University Inc,Maryland,Private not-for-profit,Four or more years,No,"City, large",670046,1789782,645885,2416113
+2007,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",53096236,93964888,35225400,90062840
+2007,161882,Baltimore International College,Maryland,Private not-for-profit,Four or more years,No,"City, large",11323572,14025547,3357136,15043613
+2007,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",29419078,84278728,31887714,77055584
+2007,162061,Capitol College,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",8187534,11784964,2790192,12324975
+2007,162210,Columbia Union College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",15481848,25259612,8904364,23988468
+2007,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",14303906,132746744,23163188,64786192
+2007,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Town, remote",28763216,88524264,31461012,83472376
+2007,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",48219000,64305000,26001716,58515000
+2007,162681,Hagerstown Business College,Maryland,Private for-profit,Four or more years,No,"Suburb, midsize",5114277,12276322,3339475,11144918
+2007,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",35925624,37046680,12668991,36378044
+2007,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",553491968,3472551936,1138296000,3485281024
+2007,163046,Loyola College in Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",111328624,163392560,57788148,153398832
+2007,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",217310528,280616896,79466456,243927456
+2007,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",91916336,843061056,172689420,827428160
+2007,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",87223328,305486432,102487176,306787456
+2007,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",383365408,1535024896,391053950,1371423104
+2007,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",57935496,62543408,22359552,58134072
+2007,163338,University of Maryland Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, fringe",20704732,91627160,27785956,96022224
+2007,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",49881744,190296048,52740336,174231088
+2007,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",43841664,51620496,15673351,53217004
+2007,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",4122474,15633437,1987320,10128960
+2007,163578,College of Notre Dame of Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",30313004,34242264,14746387,34788896
+2007,163842,St. Mary's Seminary & University,Maryland,Private not-for-profit,Four or more years,No,"City, large",1681375,-14423171,2342123,6420053
+2007,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",47728728,152967904,42434664,109621344
+2007,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Rural, distant",26528786,79273912,21974304,60426080
+2007,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",16007989,22161314,2320857,21644456
+2007,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",18901972,32704040,9744326,27048048
+2007,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",132035104,332242944,84628210,284943232
+2007,164085,Tai Sophia Institute,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",5407489,8784604,2027139,8905568
+2007,164137,Uniformed Services University of the Health Sciences,Maryland,Public,Four or more years,No,"City, small",,,,
+2007,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,35727820,,27386248
+2007,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,402909280,153806020,402989632
+2007,164173,Villa Julie College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",49169728,59179692,26441764,59156384
+2007,164207,Washington Bible College-Capital Bible Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",4034175,5644225,5018903,7393338
+2007,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",41944680,50957360,17888604,49954332
+2007,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",54378000,52123000,22867000,57990000
+2007,404480,University System of Maryland Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,84220736,,86827048
+2007,434034,National Labor College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",1483610,18320202,5196121,24418900
+2007,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",302260,6466621,372926,6271245
+2007,434973,University of Phoenix-Maryland Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, large",10625226,11108815,1496751,16278108
+2007,439330,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",1281211,1084359,643726,1668825
+2007,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",258964,398062,121892,466038
+2007,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",10397919,10310505,1798090,6022966
+2006,161837,Baltimore Hebrew University Inc,Maryland,Private not-for-profit,Four or more years,No,"City, large",718357,2856739,542352,2321537
+2006,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",44435212,83938824,30834188,80580512
+2006,161882,Baltimore International College,Maryland,Private not-for-profit,Four or more years,No,"City, large",10849225,13293538,3213566,14187247
+2006,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",29702652,96478944,29149918,72755856
+2006,162061,Capitol College,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",8662505,13129952,2634618,12373733
+2006,162210,Columbia Union College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",15387487,24295366,8665919,22047652
+2006,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",13596597,96318344,20663318,68167736
+2006,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Town, remote",28224464,85901760,29825126,80297424
+2006,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",44519468,95241000,24908686,55512000
+2006,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",30363048,45455016,11708330,34690300
+2006,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",518280000,3858213888,1284966000,3310391040
+2006,163046,Loyola College in Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",102598496,169865392,55926044,147329632
+2006,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",190910320,247977536,83065736,243602832
+2006,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",85086832,764970368,165830580,740202112
+2006,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",89401000,295974080,92025464,293637664
+2006,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",350058272,1501740672,379771600,1250072192
+2006,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",53465392,66185308,20112656,51093360
+2006,163338,University of Maryland-Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, fringe",22810508,91166080,25987704,87755232
+2006,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",48126872,187909440,50018960,166626944
+2006,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",40962804,58550192,14179156,48153944
+2006,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"City, large",4255248,12404091,1808306,9730238
+2006,163578,College of Notre Dame of Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",29758628,42517224,13451329,31706932
+2006,163842,St. Mary's Seminary & University,Maryland,Private not-for-profit,Four or more years,No,"City, large",1984716,20847476,2238547,7884819
+2006,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",44364480,138745056,39492650,103933256
+2006,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Rural, distant",24396694,69758072,19339168,56665592
+2006,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",13591800,21590600,2405170,23344900
+2006,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",18772686,39628256,9152308,26180738
+2006,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",122764560,295351712,86910930,262740880
+2006,164085,Tai Sophia Institute,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",4771608,8782340,2299984,8060302
+2006,164137,Uniformed Services University of the Health Sciences,Maryland,Public,Four or more years,No,"City, small",,,,
+2006,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,64992516,,24689152
+2006,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,387954400,160619040,387172256
+2006,164173,Villa Julie College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",43188336,60285552,24624532,53118540
+2006,164207,Washington Bible College-Capital Bible Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",3874650,5128424,4458519,6784715
+2006,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",38880504,77611320,15443603,45707052
+2006,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",52082000,71408000,21471000,54722000
+2006,404480,University System of Maryland Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,103949064,,100948424
+2006,434034,National Labor College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",1514098,22407120,6856700,20813112
+2006,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",3917878,7402257,2889695,5856598
+2006,434973,University of Phoenix-Maryland Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, large",17985000,19978000,1661000,14987000
+2006,439330,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",1569442,1486904,455761,1940846
+2006,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",386444,460193,112119,447388
+2006,446914,ITT Technical Institute-Owings Mills,Maryland,Private for-profit,Four or more years,No,"Suburb, large",4529693,4495493,965815,4436500
+2005,161837,Baltimore Hebrew University Inc,Maryland,Private not-for-profit,Four or more years,No,"City, large",619193,2712230,641115,2369341
+2005,161873,University of Baltimore,Maryland,Public,Four or more years,No,"City, large",42928428,73571944,27423718,76952888
+2005,161882,Baltimore International College,Maryland,Private not-for-profit,Four or more years,No,"City, large",11248872,12709017,2797533,12654422
+2005,162007,Bowie State University,Maryland,Public,Four or more years,Yes,"Suburb, large",27677320,70508912,27073452,69351088
+2005,162061,Capitol College,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",8159052,13530707,2306953,13101879
+2005,162210,Columbia Union College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",15037465,25599044,8543737,23808816
+2005,162283,Coppin State University,Maryland,Public,Four or more years,Yes,"City, large",15293580,79452240,19157288,54766468
+2005,162584,Frostburg State University,Maryland,Public,Four or more years,No,"Town, remote",27510548,79424376,28999006,76649144
+2005,162654,Goucher College,Maryland,Private not-for-profit,Four or more years,No,"City, small",39401388,74153000,23654328,53484000
+2005,162760,Hood College,Maryland,Private not-for-profit,Four or more years,No,"City, small",26666700,32567644,11403810,33822104
+2005,162928,Johns Hopkins University,Maryland,Private not-for-profit,Four or more years,No,"City, large",471355008,3335817984,1152617000,3082842112
+2005,163046,Loyola College in Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",97554648,163777168,51460004,138228800
+2005,163204,University of Maryland-University College,Maryland,Public,Four or more years,No,"Suburb, large",176097616,227510688,79668770,218411232
+2005,163259,University of Maryland-Baltimore,Maryland,Public,Four or more years,No,"City, large",72178664,717184256,168307340,709366080
+2005,163268,University of Maryland-Baltimore County,Maryland,Public,Four or more years,No,"Suburb, large",83700320,278959296,88468530,277977792
+2005,163286,University of Maryland-College Park,Maryland,Public,Four or more years,No,"Suburb, large",334695744,1367087232,369008830,1208021888
+2005,163295,Maryland Institute College of Art,Maryland,Private not-for-profit,Four or more years,No,"City, large",46301040,61187592,18016088,45864004
+2005,163338,University of Maryland-Eastern Shore,Maryland,Public,Four or more years,Yes,"Town, fringe",22351994,92072704,28889482,88222976
+2005,163453,Morgan State University,Maryland,Public,Four or more years,Yes,"City, large",44504944,174182400,45555850,150774976
+2005,163462,Mount St Mary's University,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",37639760,48631056,13410700,45614696
+2005,163532,Ner Israel Rabbinical College,Maryland,Private not-for-profit,Four or more years,No,"City, large",4121531,10104339,1499274,8779213
+2005,163578,College of Notre Dame of Maryland,Maryland,Private not-for-profit,Four or more years,No,"City, large",28174716,34594084,12460279,30181736
+2005,163842,St. Mary's Seminary & University,Maryland,Private not-for-profit,Four or more years,No,"City, large",2080193,11004856,2146778,7714628
+2005,163851,Salisbury University,Maryland,Public,Four or more years,No,"Suburb, small",42086104,104970976,35766080,95573008
+2005,163912,St Mary's College of Maryland,Maryland,Public,Four or more years,No,"Rural, distant",23173568,59507700,18291036,51981292
+2005,163921,Sojourner-Douglass College,Maryland,Private not-for-profit,Four or more years,No,"City, large",11139614,18557700,2041074,20198300
+2005,163976,St John's College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",17288020,33748552,8405775,29017072
+2005,164076,Towson University,Maryland,Public,Four or more years,No,"City, small",115471848,264002688,79382184,238501760
+2005,164085,Tai Sophia Institute,Maryland,Private not-for-profit,Four or more years,No,"Rural, fringe",4683551,7997824,2252901,7781358
+2005,164137,Uniformed Services University of the Health Sciences,Maryland,Public,Four or more years,No,"City, small",,,,
+2005,164146,University System of Maryland,Maryland,Public,Four or more years,No,"Suburb, large",,34910680,,32980996
+2005,164155,United States Naval Academy,Maryland,Public,Four or more years,No,"Suburb, large",,396447648,152637600,395350208
+2005,164173,Villa Julie College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",38352080,61208336,20397328,45304848
+2005,164207,Washington Bible College-Capital Bible Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",3706003,6097485,3551044,6031509
+2005,164216,Washington College,Maryland,Private not-for-profit,Four or more years,No,"Town, distant",38612704,67471968,14683514,43513708
+2005,164270,McDaniel College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, small",48453000,60159000,20648000,50143000
+2005,404480,University System of Maryland Research Centers,Maryland,Public,Four or more years,No,"Suburb, large",,100626000,,97263784
+2005,434034,National Labor College,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",1289912,20168568,6120400,15593300
+2005,434937,Yeshiva College of the Nations Capital,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",3209732,5696051,2700038,5329919
+2005,434973,University of Phoenix-Maryland Campus,Maryland,Private for-profit,Four or more years,No,"Suburb, large",16735787,17642490,1440189,12268928
+2005,439330,DeVry University-Maryland,Maryland,Private for-profit,Four or more years,No,"City, small",1198648,1196980,334266,1626005
+2005,446394,Maple Springs Baptist Bible College and Seminary,Maryland,Private not-for-profit,Four or more years,No,"Suburb, large",407629,496082,129807,461150
+2005,446914,ITT Technical Institute,Maryland,Private for-profit,Four or more years,No,"Suburb, large",939176,939176,366415,2322216
+2004,161837,BALTIMORE HEBREW UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,624324,2596387,611745,2269968
+2004,161873,UNIVERSITY OF BALTIMORE,Maryland,Public,Four or more years,No,Large city,38111528,69974040,29426350,69116288
+2004,161882,BALTIMORE INTERNATIONAL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,9597660,12921863,2743394,11320620
+2004,162007,BOWIE STATE UNIVERSITY,Maryland,Public,Four or more years,Yes,Urban fringe of large city,26678824,66714624,26572536,65028604
+2004,162061,CAPITOL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,7374986,16377543,2151156,12789112
+2004,162210,COLUMBIA UNION COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,15078214,28998264,8335696,29499724
+2004,162283,COPPIN STATE UNIVERSITY,Maryland,Public,Four or more years,Yes,Large city,13183541,63503532,21072732,58408000
+2004,162584,FROSTBURG STATE UNIVERSITY,Maryland,Public,Four or more years,No,Urban fringe of midsize city,27264796,77266992,28198934,71885664
+2004,162654,GOUCHER COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,37218124,68568000,21253964,47759000
+2004,162760,HOOD COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Midsize city,22448544,31679036,10203260,32426668
+2004,162928,JOHNS HOPKINS UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Large city,436801984,3111238912,1075205000,2900838912
+2004,163046,LOYOLA COLLEGE IN MARYLAND,Maryland,Private not-for-profit,Four or more years,No,Large city,91955248,143779296,50329204,128017928
+2004,163204,UNIVERSITY OF MARYLAND-UNIVERSITY COLLEGE,Maryland,Public,Four or more years,No,Urban fringe of large city,178886976,225517008,79911890,206491072
+2004,163259,UNIVERSITY OF MARYLAND-BALTIMORE,Maryland,Public,Four or more years,No,Large city,67897184,686338816,203724770,640523968
+2004,163268,UNIVERSITY OF MARYLAND-BALTIMORE COUNTY,Maryland,Public,Four or more years,No,Large city,78508912,280982304,86422270,271172576
+2004,163286,UNIVERSITY OF MARYLAND-COLLEGE PARK,Maryland,Public,Four or more years,No,Urban fringe of large city,312538720,1293657216,344893570,1159263104
+2004,163295,MARYLAND INSTITUTE COLLEGE OF ART,Maryland,Private not-for-profit,Four or more years,No,Large city,41022720,46376616,15676853,41130632
+2004,163338,UNIVERSITY OF MARYLAND-EASTERN SHORE,Maryland,Public,Four or more years,Yes,"Rural, outside CBSA",20211940,94317792,29356722,85298472
+2004,163453,MORGAN STATE UNIVERSITY,Maryland,Public,Four or more years,Yes,Large city,46567964,170677456,43090520,144538048
+2004,163462,MOUNT ST MARY'S UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,"Rural, outside CBSA",34228144,43182292,12704812,43037008
+2004,163532,NER ISRAEL RABBINICAL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,4377198,12730884,1938689,10437716
+2004,163578,COLLEGE OF NOTRE DAME OF MARYLAND,Maryland,Private not-for-profit,Four or more years,No,Large city,25779576,31058230,11140966,28629176
+2004,163842,SAINT MARYS SEMINARY AND UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Large city,1931180,12546102,2149707,9614452
+2004,163851,SALISBURY UNIVERSITY,Maryland,Public,Four or more years,No,Small town,38965400,98470704,33503398,90153144
+2004,163912,ST MARY'S COLLEGE OF MARYLAND,Maryland,Public,Four or more years,No,"Rural, outside CBSA",19988444,55802260,17385572,48809944
+2004,163921,SOJOURNER-DOUGLASS COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,11831415,18070100,1975636,18456700
+2004,163976,ST JOHN'S COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Midsize city,16147340,33239770,8037304,29017072
+2004,164076,TOWSON UNIVERSITY,Maryland,Public,Four or more years,No,Urban fringe of large city,108422408,267951824,73788820,227346768
+2004,164085,TAI SOPHIA INSTITUTE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,3751096,8299107,1811756,7244601
+2004,164137,UNIFORMED SERVICES UNIVERSITY OF THE HEALTH SCI,Maryland,Public,Four or more years,No,Urban fringe of large city,,,,
+2004,164146,UNIVERSITY SYSTEM OF MARYLAND,Maryland,Public,Four or more years,No,Urban fringe of large city,,33134116,,19397678
+2004,164155,UNITED STATES NAVAL ACADEMY,Maryland,Public,Four or more years,No,Midsize city,,364276224,141394160,363867744
+2004,164173,VILLA JULIE COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,34039444,43298604,16796924,38856268
+2004,164207,WASHINGTON BIBLE COLLEGE-CAPITAL BIBLE SEMINARY,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,3497810,5971468,3588778,5719512
+2004,164216,WASHINGTON COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Small town,34635000,59235536,12062254,38616068
+2004,164270,MCDANIEL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,44168000,56654000,19726000,46883000
+2004,404480,UNIVERSITY SYSTEM OF MARYLAND RESEARCH CENTERS,Maryland,Public,Four or more years,No,Urban fringe of large city,,112912864,,94005776
+2004,434034,NATIONAL LABOR COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,1458854,21355132,5574167,14202301
+2004,434937,YESHIVA COLLEGE OF THE NATIONS CAPITAL,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,2745194,4901508,2178450,4259758
+2004,434973,UNIVERSITY OF PHOENIX-MARYLAND,Maryland,Private for-profit,Four or more years,No,Urban fringe of large city,17009208,17846742,1391819,10675444
+2004,439330,DEVRY UNIVERSITY-MARYLAND,Maryland,Private for-profit,Four or more years,No,Missing/not reported,1103867,1111028,366033,1665271
+2003,161837,BALTIMORE HEBREW UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,772325,2719390,659351,2411841
+2003,161873,UNIVERSITY OF BALTIMORE,Maryland,Public,Four or more years,No,Large city,32476176,63753280,26204096,66848720
+2003,161882,BALTIMORE INTERNATIONAL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,9446800,11779988,3493164,10893606
+2003,162007,BOWIE STATE UNIVERSITY,Maryland,Public,Four or more years,Yes,Urban fringe of large city,25136304,65259692,25961848,66949948
+2003,162061,CAPITOL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,6886472,13078732,2798400,13933591
+2003,162210,COLUMBIA UNION COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,14271195,28787528,8153703,29092970
+2003,162283,COPPIN STATE COLLEGE,Maryland,Public,Four or more years,Yes,Large city,15404916,48144528,17792174,47455000
+2003,162584,FROSTBURG STATE UNIVERSITY,Maryland,Public,Four or more years,No,Urban fringe of midsize city,25728244,72793936,27643208,70520728
+2003,162654,GOUCHER COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,34022440,64043000,20030396,44381000
+2003,162760,HOOD COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Midsize city,18359136,33817072,9818923,31201984
+2003,162928,JOHNS HOPKINS UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Large city,405513984,2949607936,1004573000,2712506880
+2003,163046,LOYOLA COLLEGE IN MARYLAND,Maryland,Private not-for-profit,Four or more years,No,Large city,86511136,145020688,46475496,120298560
+2003,163204,UNIVERSITY OF MARYLAND-UNIVERSITY COLLEGE,Maryland,Public,Four or more years,No,Urban fringe of large city,159118160,202946544,72302720,185782400
+2003,163259,UNIVERSITY OF MARYLAND-BALTIMORE,Maryland,Public,Four or more years,No,Large city,59486988,637075072,186784240,569423296
+2003,163268,UNIVERSITY OF MARYLAND-BALTIMORE COUNTY,Maryland,Public,Four or more years,No,Large city,73410000,276791360,83972440,257969328
+2003,163286,UNIVERSITY OF MARYLAND-COLLEGE PARK,Maryland,Public,Four or more years,No,Urban fringe of large city,290772800,1217043200,322840000,1094683392
+2003,163295,MARYLAND INSTITUTE COLLEGE OF ART,Maryland,Private not-for-profit,Four or more years,No,Large city,35810308,43818608,14609987,38360432
+2003,163338,UNIVERSITY OF MARYLAND-EASTERN SHORE,Maryland,Public,Four or more years,Yes,"Rural, outside CBSA",16134928,108350672,26989652,75432960
+2003,163453,MORGAN STATE UNIVERSITY,Maryland,Public,Four or more years,Yes,Large city,41249036,140461840,40346996,133161112
+2003,163462,MOUNT SAINT MARYS COLLEGE,Maryland,Private not-for-profit,Four or more years,No,"Rural, outside CBSA",32442452,41325036,13014501,42516620
+2003,163532,NER ISRAEL RABBINICAL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,4743231,11253289,1865813,9876699
+2003,163578,COLLEGE OF NOTRE DAME OF MARYLAND,Maryland,Private not-for-profit,Four or more years,No,Large city,23928416,33808576,10373736,26585904
+2003,163842,SAINT MARYS SEMINARY AND UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Large city,2089739,12761484,2192672,7456448
+2003,163851,SALISBURY UNIVERSITY,Maryland,Public,Four or more years,No,Small town,35592780,92755816,30967720,85962392
+2003,163912,ST MARY'S COLLEGE OF MARYLAND,Maryland,Public,Four or more years,No,"Rural, outside CBSA",17946968,55403832,15401323,43793112
+2003,163921,SOJOURNER-DOUGLAS COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,14421200,17624700,1725640,17050500
+2003,163976,ST JOHN'S COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Midsize city,15150555,39305384,7711086,26842384
+2003,164076,TOWSON UNIVERSITY,Maryland,Public,Four or more years,No,Urban fringe of large city,100162856,236948400,69173550,212704864
+2003,164085,TAI SOPHIA INSTITUTE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,66650,6597027,2017901,7349165
+2003,164137,UNIFORMED SERVICES UNIVERSITY OF THE HEALTH SCI,Maryland,Public,Four or more years,No,Urban fringe of large city,,,,
+2003,164146,UNIVERSITY SYSTEM OF MARYLAND,Maryland,Public,Four or more years,No,Urban fringe of large city,,34413440,,17337540
+2003,164155,UNITED STATES NAVAL ACADEMY,Maryland,Public,Four or more years,No,Midsize city,,321279840,131965410,320410272
+2003,164173,VILLA JULIE COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,29513268,36487448,14841059,31223812
+2003,164207,WASHINGTON BIBLE COLLEGE-CAPITAL BIBLE SEMINARY,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,3338230,5466251,3381733,5283195
+2003,164216,WASHINGTON COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Small town,30686796,59702352,11262645,36310104
+2003,164270,MCDANIEL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,43635000,52077000,18244000,44370000
+2003,404480,UNIVERSITY SYSTEM OF MARYLAND RESEARCH CENTERS,Maryland,Public,Four or more years,No,Urban fringe of large city,,98967928,,82658584
+2003,430184,STRAYER UNIVERSITY-PRINCE GEORGES CAMPUS,Maryland,Private for-profit,Four or more years,No,Urban fringe of large city,,,,
+2003,434034,THE NATIONAL LABOR COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,1556927,14424801,5940996,13624681
+2003,434937,YESHIVA COLLEGE OF THE NATIONS CAPITAL,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,2179619,4157124,3278665,4634182
+2003,434973,UNIVERSITY OF PHOENIX-MARYLAND,Maryland,Private for-profit,Four or more years,No,Urban fringe of large city,16602051,17443040,1446407,10084861
+2003,436447,STRAYER UNIVERSITY-ANNE ARUNDEL CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
+2003,436456,STRAYER UNIVERSITY-WHITE MARSH CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
+2003,436845,STRAYER UNIVERSITY-MONTGOMERY CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
+2003,438799,BINAH INSTITUTE OF ADVANCED JUDAIC STUDIES,Maryland,Private not-for-profit,Four or more years,No,Missing/not reported,,,,
+2003,439330,DEVRY UNIVERSITY-MARYLAND,Maryland,Private for-profit,Four or more years,No,Missing/not reported,951098,956128,202618,1268719
+2003,440518,STRAYER UNIVERSITY-OWINGS MILLS CAMPUS,Maryland,Private for-profit,Four or more years,Missing/not reported,Missing/not reported,,,,
+2002,161837,BALTIMORE HEBREW UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,946744,2441779,752608,2560025
+2002,161873,UNIVERSITY OF BALTIMORE,Maryland,Public,Four or more years,No,Large city,28992314,64037892,28787468,67140848
+2002,161882,BALTIMORE INTERNATIONAL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,8227107,10238876,3095514,10108725
+2002,162007,BOWIE STATE UNIVERSITY,Maryland,Public,Four or more years,Yes,Urban fringe of large city,21884324,68987816,22528188,64881484
+2002,162061,CAPITOL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,7613992,11844825,2910376,12190744
+2002,162210,COLUMBIA UNION COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,14016206,27139292,8506032,27516444
+2002,162283,COPPIN STATE COLLEGE,Maryland,Public,Four or more years,Yes,Large city,11213667,52581152,16200212,47508124
+2002,162539,FOUNDATION FOR ADVANCED EDUCATION IN THE SCIENCES,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,,,,
+2002,162584,FROSTBURG STATE UNIVERSITY,Maryland,Public,Four or more years,No,Urban fringe of midsize city,21994246,87226072,26762110,70824448
+2002,162654,GOUCHER COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,30961000,35234000,19783250,43345000
+2002,162760,HOOD COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Midsize city,16254051,27937510,9457355,30817918
+2002,162928,JOHNS HOPKINS UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Large city,381233984,2532596992,934431000,2485894912
+2002,163046,LOYOLA COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,81401504,110168032,45814330,120609920
+2002,163204,UNIVERSITY OF MARYLAND-UNIVERSITY COLLEGE,Maryland,Public,Four or more years,No,Urban fringe of large city,153839600,205207920,69555040,180619296
+2002,163259,UNIVERSITY OF MARYLAND-BALTIMORE,Maryland,Public,Four or more years,No,Large city,54093284,604096256,184676350,546733568
+2002,163268,UNIVERSITY OF MARYLAND-BALTIMORE COUNTY,Maryland,Public,Four or more years,No,Large city,75826600,297522976,83943500,257623504
+2002,163286,UNIVERSITY OF MARYLAND-COLLEGE PARK,Maryland,Public,Four or more years,No,Urban fringe of large city,244190688,1157272320,327334800,1079969920
+2002,163295,MARYLAND INSTITUTE COLLEGE OF ART,Maryland,Private not-for-profit,Four or more years,No,Large city,30958464,38067852,13800933,34223944
+2002,163338,UNIVERSITY OF MARYLAND-EASTERN SHORE,Maryland,Public,Four or more years,Yes,"Rural, outside CBSA",11325146,80865824,27899858,79528880
+2002,163453,MORGAN STATE UNIVERSITY,Maryland,Public,Four or more years,Yes,Large city,37308300,147842784,38508590,138135280
+2002,163462,MOUNT SAINT MARYS COLLEGE,Maryland,Private not-for-profit,Four or more years,No,"Rural, outside CBSA",30104304,37901996,11670546,38389288
+2002,163532,NER ISRAEL RABBINICAL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,5591037,10704050,1746379,8175522
+2002,163578,COLLEGE OF NOTRE DAME OF MARYLAND,Maryland,Private not-for-profit,Four or more years,No,Large city,22449636,31816012,9843701,26170422
+2002,163842,SAINT MARYS SEMINARY AND UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Large city,1577368,8581731,2311916,7850134
+2002,163851,SALISBURY UNIVERSITY,Maryland,Public,Four or more years,No,Small town,30089460,92131128,33020274,88939440
+2002,163912,ST MARY'S COLLEGE OF MARYLAND,Maryland,Public,Four or more years,No,"Rural, outside CBSA",15015456,43818988,15213781,42240428
+2002,163921,SOJOURNER-DOUGLAS COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,11451703,14834103,1423411,13426766
+2002,163976,ST JOHN'S COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Midsize city,14182148,23434912,7482013,25931668
+2002,164076,TOWSON UNIVERSITY,Maryland,Public,Four or more years,No,Urban fringe of large city,90118256,242960704,69972880,216872192
+2002,164085,TAI SOPHIA INSTITUTE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,2857992,5961837,1898167,6592202
+2002,164137,UNIFORMED SERVICES UNIVERSITY OF THE HEALTH SCI,Maryland,Public,Four or more years,No,Urban fringe of large city,,,,
+2002,164146,UNIVERSITY SYSTEM OF MARYLAND,Maryland,Public,Four or more years,No,Urban fringe of large city,,21078784,,16673892
+2002,164155,UNITED STATES NAVAL ACADEMY,Maryland,Public,Four or more years,No,Midsize city,,326853536,105855730,326620672
+2002,164173,VILLA JULIE COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,25633916,30714688,14226855,28577218
+2002,164207,WASHINGTON BIBLE COLLEGE-CAPITAL BIBLE SEMINARY,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,2859306,5167432,3203284,5047116
+2002,164216,WASHINGTON COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Small town,25963708,38458448,11076754,34308596
+2002,164270,MCDANIEL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,40453000,43323000,17727000,43603000
+2002,404480,UNIVERSITY SYSTEM OF MARYLAND RESEARCH CENTERS,Maryland,Public,Four or more years,No,Urban fringe of large city,,91581912,,82159472
+2002,430184,STRAYER UNIVERSITY-PRINCE GEORGES CAMPUS,Maryland,Private for-profit,Four or more years,No,Urban fringe of large city,,,,
+2002,434034,THE NATIONAL LABOR COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,1210087,12107673,5437730,12817018
+2002,434937,YESHIVA COLLEGE OF THE NATIONS CAPITAL,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,2179619,4157124,3681676,4634182
+2002,434973,UNIVERSITY OF PHOENIX-MARYLAND,Maryland,Private for-profit,Four or more years,No,Urban fringe of large city,14301000,14715000,2515000,9218000
+2002,436447,STRAYER UNIVERSITY-ANNE ARUNDEL CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
+2002,436456,STRAYER UNIVERSITY-WHITE MARSH CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
+2002,436845,STRAYER UNIVERSITY-MONTGOMERY CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
+2002,438799,BINAH INSTITUTE OF ADVANCED JUDAIC STUDIES,Maryland,Private not-for-profit,Four or more years,No,Missing/not reported,,,,
+2002,439330,DEVRY UNIVERSITY-MARYLAND,Maryland,Private for-profit,Four or more years,No,Missing/not reported,736789,770271,89582,855062
+2002,440518,STRAYER UNIVERSITY-OWINGS MILLS CAMPUS,Maryland,Private for-profit,Four or more years,Missing/not reported,Missing/not reported,,,,
+2002,440527,STRAYER UNIVERSITY-OWINGS MILLS CAMPUS,Maryland,Private for-profit,Four or more years,Missing/not reported,Missing/not reported,,,,
+2001,161837,BALTIMORE HEBREW UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,830233,2345188,,2345972
+2001,161873,UNIVERSITY OF BALTIMORE,Maryland,Public,Four or more years,No,Large city,25258776,62706368,25804124,59806220
+2001,161882,BALTIMORE INTERNATIONAL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,7293513,9375001,2633744,9117867
+2001,162007,BOWIE STATE UNIVERSITY,Maryland,Public,Four or more years,Yes,Urban fringe of large city,18386328,66766192,20515416,53069508
+2001,162061,CAPITOL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,7565264,12597376,3256741,10190882
+2001,162210,COLUMBIA UNION COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,15656031,23241346,6626171,24668716
+2001,162283,COPPIN STATE COLLEGE,Maryland,Public,Four or more years,Yes,Large city,11189458,47993160,15660914,48274028
+2001,162539,FOUNDATION FOR ADVANCED EDUCATION IN THE SCIENCES,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,,,,
+2001,162584,FROSTBURG STATE UNIVERSITY,Maryland,Public,Four or more years,No,Urban fringe of midsize city,19222492,80882248,25619480,67551344
+2001,162654,GOUCHER COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,28390000,17486000,19080000,41206000
+2001,162760,HOOD COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Midsize city,14678842,19528652,8982180,26247304
+2001,162885,INSTITUTE FOR ADVANCED MONTESSORI STUDIES,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,,,,
+2001,162928,JOHNS HOPKINS UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Large city,360428992,2268606976,771525000,2231521024
+2001,163046,LOYOLA COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,76549400,96097784,38685290,106854192
+2001,163204,UNIVERSITY OF MARYLAND-UNIVERSITY COLLEGE,Maryland,Public,Four or more years,No,Urban fringe of large city,139219088,184196752,62111040,186008256
+2001,163259,UNIVERSITY OF MARYLAND-BALTIMORE,Maryland,Public,Four or more years,No,Large city,47789148,554568064,181391680,510626336
+2001,163268,UNIVERSITY OF MARYLAND-BALTIMORE COUNTY,Maryland,Public,Four or more years,No,Large city,67718744,261952736,79672500,249159008
+2001,163286,UNIVERSITY OF MARYLAND-COLLEGE PARK,Maryland,Public,Four or more years,No,Urban fringe of large city,221034496,1175809024,334403970,1120722688
+2001,163295,MARYLAND INSTITUTE COLLEGE OF ART,Maryland,Private not-for-profit,Four or more years,No,Large city,29050396,39474472,13431764,32323438
+2001,163338,UNIVERSITY OF MARYLAND-EASTERN SHORE,Maryland,Public,Four or more years,Yes,"Rural, outside CBSA",13246949,74089104,27504322,66027664
+2001,163453,MORGAN STATE UNIVERSITY,Maryland,Public,Four or more years,Yes,Large city,35704164,139144144,40229450,142198224
+2001,163462,MOUNT SAINT MARYS COLLEGE,Maryland,Private not-for-profit,Four or more years,No,"Rural, outside CBSA",28346872,33419216,10758596,34504468
+2001,163532,NER ISRAEL RABBINICAL COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,5021676,9628137,1603858,7542088
+2001,163578,COLLEGE OF NOTRE DAME OF MARYLAND,Maryland,Private not-for-profit,Four or more years,No,Large city,20099900,21306556,10948540,24805824
+2001,163842,SAINT MARYS SEMINARY AND UNIVERSITY,Maryland,Private not-for-profit,Four or more years,No,Large city,1792069,6865995,2398982,16523144
+2001,163851,SALISBURY UNIVERSITY,Maryland,Public,Four or more years,No,Small town,27113008,109565536,29118264,85267160
+2001,163912,ST MARY'S COLLEGE OF MARYLAND,Maryland,Public,Four or more years,No,"Rural, outside CBSA",12916903,39472600,14462490,41101344
+2001,163921,SOJOURNER-DOUGLAS COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Large city,11061038,14355785,1558474,12928441
+2001,163976,ST JOHN'S COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Midsize city,13372047,15070762,7531104,24118560
+2001,164076,TOWSON UNIVERSITY,Maryland,Public,Four or more years,No,Urban fringe of large city,81493832,236227664,66968460,205980480
+2001,164085,TAI SOPHIA INSTITUTE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,2146103,3334675,1059011,4712985
+2001,164137,UNIFORMED SERVICES UNIVERSITY OF THE HEALTH SCI,Maryland,Public,Four or more years,No,Urban fringe of large city,,,,
+2001,164146,UNIVERSITY SYSTEM OF MARYLAND,Maryland,Public,Four or more years,No,Urban fringe of large city,,14245207,,16779804
+2001,164155,UNITED STATES NAVAL ACADEMY,Maryland,Public,Four or more years,No,Midsize city,,291030112,96780800,291030112
+2001,164173,VILLA JULIE COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,22987354,23643234,12953565,25095036
+2001,164207,WASHINGTON BIBLE COLLEGE-CAPITAL BIBLE SEMINARY,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,2316911,4306046,2815015,4485608
+2001,164216,WASHINGTON COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Small town,25787800,22202980,10037419,31872096
+2001,164270,WESTERN MARYLAND COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,36316000,39443000,16847000,40544000
+2001,261065,EASTERN BIBLE INSTITUTE,Maryland,Private not-for-profit,Four or more years,No,Small town,,,,
+2001,404480,UNIVERSITY SYSTEM OF MARYLAND RESEARCH CENTERS,Maryland,Public,Four or more years,No,Urban fringe of large city,,83351640,,81659656
+2001,430184,STRAYER UNIVERSITY-PRINCE GEORGES CAMPUS,Maryland,Private for-profit,Four or more years,No,Urban fringe of large city,,,,
+2001,431655,NAVAL POSTGRADUATE DENTAL SCHOOL,Maryland,Public,Four or more years,No,Urban fringe of large city,,,,
+2001,434034,THE NATIONAL LABOR COLLEGE,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,1009498,11383024,6774694,12649730
+2001,434937,YESHIVA COLLEGE OF THE NATIONS CAPITAL,Maryland,Private not-for-profit,Four or more years,No,Urban fringe of large city,2304165,4338647,3577825,5070780
+2001,434973,UNIVERSITY OF PHOENIX-MARYLAND,Maryland,Private for-profit,Four or more years,No,Urban fringe of large city,10037000,10221000,2126000,7295000
+2001,436298,MARYLAND BIBLE COLLEGE AND SEMINARY,Maryland,Private not-for-profit,Four or more years,No,Missing/not reported,,,,
+2001,436447,STRAYER UNIVERSITY-ANNE ARUNDEL CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
+2001,436456,STRAYER UNIVERSITY-WHITE MARSH CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
+2001,436845,STRAYER UNIVERSITY-MONTGOMERY CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
+2001,439330,DEVRY UNIVERSITY KELLER GRADUATE SCHOOL OF MANAG.,Maryland,Private for-profit,Four or more years,No,Missing/not reported,519362,562562,67056,798563
+2001,440518,STRAYER UNIVERSITY-OWINGS MILLS CAMPUS,Maryland,Private for-profit,Four or more years,No,Missing/not reported,,,,
